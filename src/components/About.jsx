@@ -17,7 +17,7 @@ const About = () => {
               <p>Hi. I'm Yash Ghan, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>
+              <p className='text-lg'>
               I like to solve problems and have strong interest in data structures and algorithms and their implementation.
               I have experience of working in multiple full-stack projects and have participated in many national level hackathons.
               I have worked on frontend, backend , databases and have collaboratted in multiple full-stack projects having 
